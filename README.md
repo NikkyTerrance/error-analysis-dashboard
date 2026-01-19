@@ -296,9 +296,9 @@ This project demonstrates:
 
 This project was created as part of a graduate data science application. For questions or feedback, please reach out via:
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** nikkydocode@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/nikshi-terrance
+- **GitHub:** https://github.com/NikkyTerrance
 
 ---
 
