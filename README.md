@@ -200,24 +200,6 @@ Automatically generated insights include:
 
 ---
 
-## 🎓 Interview Talking Points
-
-### Analytical Approach
-*"I started with exploratory analysis to understand the data before jumping to modeling. The visualizations revealed that only 2% of events were errors, which informed my decision to use class-balanced logistic regression."*
-
-### Model Selection
-*"I chose logistic regression over random forests or neural networks because in a security operations center, analysts need to understand why an alert was triggered. The coefficients show exactly which factors increase risk, making the model trustworthy and auditable."*
-
-### Handling Negative Results
-*"The low AUC score is actually a valuable finding. It tells us that errors aren't systematically caused by specific services or users - they're essentially random given our features. This guided my recommendations toward collecting additional metrics rather than deploying an ineffective model."*
-
-### Comparative Analysis
-*"Rather than just showing which services have the most errors, I implemented comparative analysis. A service with 1,000 errors might be performing well if it handles 100,000 requests (1% error rate), while a service with 100 errors could be critical if it only handles 200 requests (50% error rate). The comparative metrics reveal the true outliers."*
-
-### Cybersecurity Relevance
-*"Log analysis is fundamental to security monitoring. This approach extends directly to intrusion detection, anomaly identification, and threat hunting. The same principles apply whether you're predicting system errors or detecting malicious activity."*
-
----
 
 ## 📁 Project Structure
 
