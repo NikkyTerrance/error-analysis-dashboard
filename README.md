@@ -292,7 +292,7 @@ This project is created for educational and application purposes. Feel free to u
 
 ## 🙏 Acknowledgments
 
-- **Anthropic Claude** - For assistance in project development and documentation
+- **Anthropic Claude** - For assistance in documentation
 - **Streamlit** - For providing an excellent framework for data applications
 - **Scikit-learn** - For robust machine learning tools
 
